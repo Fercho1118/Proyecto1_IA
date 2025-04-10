@@ -1,0 +1,8 @@
+langchain ==0.3.6
+langchain-openai
+requests
+openai
+python-dotenv
+streamlit
+matplotlib
+wordcloud
